@@ -1,0 +1,8 @@
+model - complete
+repository - complete
+
+todo:
+
+add authentication (server takes client's user/email/location/ip/port)
+send user list to client
+create chat room
